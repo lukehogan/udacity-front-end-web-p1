@@ -6,4 +6,11 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+## What new skills have you learned?
+* New HTML tags
+## What has been easy?
+* Most of the course so far
+## What has been difficult?
+* Nothing too challenging yet
+## How have you used the problem solving strategies from the first project to overcome challenges so far?
+* Had to test a few different HTML tags I haven't used before to see the results.
